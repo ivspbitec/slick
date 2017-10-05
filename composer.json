@@ -1,6 +1,7 @@
 {
-  "name": "ivspbitec/slick",
-  "description": "the last carousel you'll ever need",
-  "keywords": ["slick"],
-  "homepage": "https://github.com/ivspbitec/slick"
+    "name": "The last carousel you'll ever need",
+    "type": "js",
+    "description": "spbitec.ru slick",
+    "keywords": ["slick"]],
+    "homepage": "https://spbitec.ru",
 }
